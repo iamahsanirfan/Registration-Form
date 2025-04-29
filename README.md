@@ -1,2 +1,2 @@
-# Registration Form Project GIAIC
+# Registration Form Project
 
